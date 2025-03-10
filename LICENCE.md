@@ -13,13 +13,13 @@ Pour accéder à une copie de cette licence, merci de vous rendre à l’adresse
 *Adapter* — remixer, transformer et créer à partir du matériel
 pour toute utilisation, y compris commerciale.
 
-L’Offrant ne peux retirer les autorisations concédées par la licence tant que vous appliquez les termes de cette licence.
+L’Offrant ne peut retirer les autorisations concédées par la licence tant que vous appliquez les termes de cette licence.
 
 ### Selon les conditions suivantes :
 
-*Attribution* — Vous devez créditer l’œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées à l’Œuvre. Vous devez indiquer ces informations par tous les moyens possibles mais vous ne pouvez pas suggérer que l’Offrant vous soutient ou soutient la façon dont vous avez utilisé son Oeuvre.
+*Attribution* — Vous devez créditer l’œuvre, intégrer un lien vers la licence et indiquer si des modifications ont été effectuées à l’Œuvre. Vous devez indiquer ces informations par tous les moyens possibles mais vous ne pouvez pas suggérer que l’Offrant vous soutient, ou soutient la façon dont vous avez utilisé son Œuvre.
 
-*Pas de restrictions complémentaires* — Vous n’êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l'Oeuvre dans les conditions décrites par la licence.
+*Pas de restrictions complémentaires* — Vous n’êtes pas autorisé à appliquer des conditions légales ou des mesures techniques qui restreindraient légalement autrui à utiliser l’Œuvre dans les conditions décrites par la licence.
 
 ### Notes :
 
